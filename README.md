@@ -3,6 +3,8 @@
 These are open educational resources ([OER](https://en.wikipedia.org/wiki/Open_educational_resources)).
 The repository should be used as a template for the your own classes.
 
+
+
 ## Using the Content
 
 Content is located in the `chapters/` folder.
