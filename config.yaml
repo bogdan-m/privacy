@@ -48,13 +48,12 @@ docusaurus:
     static_assets:
       - template-chapter-template-topic: /build/make_assets/chapters/template-chapter/template-topic/slides/_site
     config_meta:
-      title: Template Repo
-      url: http://localhost/
-      baseUrl: /oer-template/
+      title: Privacy test
+      url: http://bogdan-m.github.io
+      baseUrl: /privacy/
       onBrokenLinks: warn
       onBrokenMarkdownLinks: warn
     config_socials:
       Main site: https://example.com
       OCW: https://example.com
-      Facebook: https://www.facebook.com/zuck/
-    copyright_string: Example Copyright
+    copyright_string: CC
