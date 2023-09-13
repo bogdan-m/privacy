@@ -1,24 +1,13 @@
-# Template Chapter
+# Ce este un cookie?
 
-This is an instance of a lab placeholder.
-This will be used to showcase the different highlights of the syntax.
+Un cookie este un fișier de mici dimensiuni, în general alcătuit din litere și cifre, care este descărcat în memoria unui calculator (sau altui echipament folosit pentru navigare online - telefon mobil, tabletă, etc), atunci când utilizatorul accesează un anumit site web.
 
-This is another sentence
+Cookie-urile sunt create atunci când browserul folosit de către un utilizator afișează un anumit site web. Site-ul web transmite informații către browser, iar acesta creează un fișier text. De fiecare dată când utilizatorul accesează din nou respectivul site web, browserul accesează și transmite acest fișier către serverul site-ului web. Altfel spus, cookie-ul poate fi văzut ca un card de identificare a utilizatorului de Internet, care anunță site-ul web de fiecare dată când utilizatorul se întoarce pe respectivul site.
 
-In order to use links to to outside resources, you can add them as [such](http://example.com).
+## Un cookie poate arăta așa:
 
-This is a list of all the best cuisines in the world
-- Indian
-- Italian
-- French
 
-In order to make emphasize keywords, you can use **bold** words.
-To suggest a more metaphorical and less literal meaning of a phrase, you can use _italic_ words.
 
-## Section the first
-
-For each skill learned in the lab, you will use a subsection which will touch up on new concepts.
-
-For integrating figures, you will use `![Example SVG](../media/app-os-cpu-interaction.svg)`.
-
-![Example SVG](../media/app-os-cpu-interaction.svg)
+``` 
+SNID50=eR0azHquz-E32l1B7uLIasD63_ZWxrS9fkAc37Z4CQ=Q4levhdDnydqiJGNgoogle.ro/verify 9728 2076339328 30210107 446809680 30173295 *
+```
